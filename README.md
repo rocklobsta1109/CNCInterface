@@ -1,2 +1,2 @@
 # CNCInterface
-CNC 3D-Printer Project
+LinuxCNC Custom GUI Project
